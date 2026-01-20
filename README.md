@@ -1,3 +1,3 @@
-<h1>this is repo</h1>
+<h2>this is repo</h2>
 <p>thos is paragraph</p>
 
